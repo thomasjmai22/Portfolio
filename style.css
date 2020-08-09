@@ -116,9 +116,9 @@ body {
   margin: 20px 0;
 }
 
-/* img {
-  max-width: 100%;
-} */
+a {
+  color: blue;
+}
 
 .skills ul {
   display: flex;
